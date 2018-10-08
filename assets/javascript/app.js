@@ -1,13 +1,54 @@
 // Questions
 var questions = [
     {
-        text: "Does rain fall from the sky?",
-        options: ["Yes", "No"],
-        answer: 0 // the index of the correct answer
-    }, {
-        text: "Does Mark Love Jordans>",
-        options: ["Hecky Naw!", "He loves Adidas", "For Sure he does!"],
+        text: "Which of the following is likely to increase biodiversity within a biome?",
+        options: ["Landscape fragmentation", "Introduction of an invasive species", "Immigration of humans", "Speciation", "A disease epidemic"],
+        answer: 3 // the index of the correct answer
+    }, 
+    {
+        text: "For radioactive elements, the transformation between a parent and daughter atom involves ",
+        options: ["the creation of ionic bonds.", "a release of neutrons and energy.", "an increase in total energy.", "the transformation of chemical energy to potential energy.", "the transformation of heat energy to kinetic energy."],
+        answer: 1
+    },
+    {
+        text: "You have installed a solar-charged battery that can provide 4 MJ of electrical energy each day. Approximately how many 50 W bulbs can you run on the battery if each bulb is on for an average of 1 hour per day?",
+        options: ["3", "10", "22", "32", "45"],
         answer: 2
+    },
+    {
+        text: "Ocean acidification represents a key component of the ",
+        options: ["nitrogen cycle.", "hydrologic cycle.", "phosphorus cycle.", "carbon cycle.", "sulfur cycle."],
+        answer: 3
+    },
+    {
+        text: "Which human activity is most likely to decelerate the pace of evolution?",
+        options: ["Monocropping corn of the same genotype", "Fragmenting habitat", "Overharvesting fisheries", "Enforcing size limits on hunting", "Connecting lakes through an artificial canal"],
+        answer: 0
+    },
+    {
+        text: "What contributes to the physical weathering of rock?",
+        options: ["Acid rain", "Burial in sediment", "Volcanic activity", "Growth of plant roots", "Deposition"],
+        answer: 3
+    },
+    {
+        text: "Which type of mining is potentially the most harmful to human health?",
+        options: ["Open-pit mining", "Mountaintop removal", "Strip mining", "Subsurface mining", "Placer mining"],
+        answer: 3
+    },
+    {
+        text: "Which provides protection against the risks that genetically modified crops pose to global crop biodiversity?",
+        options: ["No-till agriculture", "Integrated pest management", "Broad-spectrum herbicides", "Use of a pesticide treadmill", "Buffer zones around crops"],
+        answer: 4
+    },
+    {
+        text: "Which two nonrenewable energy sources are typically extracted together?",
+        options: ["Liquid coal and oil sands", "Petroleum and oil sands", "Petroleum and coal", "Petroleum and natural gas", "Uranium and coal"],
+        answer: 3
+    },
+    {
+        text: "Where is denitrification NOT likely to occur?",
+        options: ["Topsoil of freshly tilled croplands", "Sediments of a deep lake", "Well-fertilized croplands", "Compacted, wet soils under cattle farms", "Recently flooded cropland"],
+        answer: 0
     }
 ];
 
